@@ -16,4 +16,4 @@ The best-case run times of Insertion Sort, Merge Sort, Quick Sort, and Randomize
 
 The worst-case run times of Insertion Sort, Merge Sort, Quick Sort, and Randomized Quick Sort respectively are Ω(n^2), Ω(nlogn), Ω(n^2), Ω(nlogn).
 
-BestFirstSearch contains main.cpp, used as a driver for each of the 4 Sorting Algorithms.
+SortingAlgorithms contains main.cpp, used as a driver for each of the 4 Sorting Algorithms.
